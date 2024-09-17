@@ -1,0 +1,38 @@
+table {
+    font-family: 'Arial', sans-serif;
+    width: 100%;
+    color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.751);
+    text-align: center;
+}
+
+.azul {
+    color: #4285F4;
+}
+
+.laranja {
+    color:#FA7B17;
+}
+
+.verde {
+    color:#34A853;
+    
+}
+
+.branco {
+    color: white;
+}
+
+.vermelho {
+    color: red;
+}
+
+b {
+    font-family: 'Arial, sans-serif';
+    border:;
+}
+
+.logo {
+    width: 30px;
+    text-align: center;
+}

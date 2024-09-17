@@ -1,0 +1,29 @@
+.div-principal {
+    border: 1px solid black;
+    height: 400px;
+    padding: 10px;
+    display: flex;
+    justify-content: center
+;
+    
+
+}
+
+.div-principal form{
+    border: 1px solid rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+    width: 40%;
+    align-items: center;
+}
+
+.btnEntrar{
+    width: 50px;
+}
+.input-box {
+    margin: 5px;
+}
+.input {
+    
+}
